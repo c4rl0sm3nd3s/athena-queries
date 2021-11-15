@@ -1,0 +1,6 @@
+aws_porfile = 'default'
+athena_bucket = 'name-to-s3-bucket'
+athena_s3folder = 'dev/'
+
+athena_db = 'database-name'
+athena_table = 'table-name'
